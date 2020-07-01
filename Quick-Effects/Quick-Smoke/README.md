@@ -15,6 +15,6 @@ Principled Volume
 
 
 ## Blender2.83.smoke-fire-tutorial.blend
-## Try 2-step below
+## Try do 2-step below
 1. Scene Collection → Smoke Domain → Physics Properties → Cache → Free All
 2. Scene Collection → Smoke Domain → Physics Properties → Cache → Bake All
